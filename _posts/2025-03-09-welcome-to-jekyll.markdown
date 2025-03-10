@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Save the Date!"
+title:  "Save the Date September 25-27, 2026!"
 date:   2025-03-09 21:31:09 -0700
 categories: love-ceremony
 ---
